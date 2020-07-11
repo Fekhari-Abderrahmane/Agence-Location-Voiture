@@ -1,0 +1,32 @@
+{
+  "D:\\java\\lib\\rt.jar": {
+    "location": "D:\\java\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027D:\\java\\lib\\rt.jar\u0027. Neither fingerprint \u002710f022244fded36cb25eb57969d6b0fe3532221a\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\Users\\TOSHIBA\\Desktop\\projet en java 2020\\Gestion de location de voiture\\src": {
+    "location": "C:\\Users\\TOSHIBA\\Desktop\\projet en java 2020\\Gestion de location de voiture\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\TOSHIBA\\Desktop\\projet en java 2020\\Gestion de location de voiture\\src\u0027. Skipped."
+  },
+  "C:\\Users\\Anonymous\\Desktop\\projet en java FEKHYAK\\Gestion de location de voiture\\src": {
+    "location": "C:\\Users\\Anonymous\\Desktop\\projet en java FEKHYAK\\Gestion de location de voiture\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Anonymous\\Desktop\\projet en java FEKHYAK\\Gestion de location de voiture\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre1.8.0_211\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre1.8.0_211\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jre1.8.0_211\\lib\\rt.jar\u0027. Neither fingerprint \u0027d096fab036bfcbcc70496c123de95e9a05eaee62\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\Users\\TOSHIBA\\Desktop\\projet en java FEKHYAK\\projet en java FEKHYAK\\Gestion de location de voiture\\src": {
+    "location": "C:\\Users\\TOSHIBA\\Desktop\\projet en java FEKHYAK\\projet en java FEKHYAK\\Gestion de location de voiture\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\TOSHIBA\\Desktop\\projet en java FEKHYAK\\projet en java FEKHYAK\\Gestion de location de voiture\\src\u0027. Skipped."
+  },
+  "C:\\Users\\Anonymous\\Desktop\\projet_YAKFEKH\\Gestion de location de voiture\\src": {
+    "location": "C:\\Users\\Anonymous\\Desktop\\projet_YAKFEKH\\Gestion de location de voiture\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Anonymous\\Desktop\\projet_YAKFEKH\\Gestion de location de voiture\\src\u0027. Skipped."
+  }
+}

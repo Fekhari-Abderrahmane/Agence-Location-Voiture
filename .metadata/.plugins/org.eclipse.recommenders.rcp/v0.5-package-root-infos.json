@@ -1,0 +1,236 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1056d4b3eacdbc4dbee24a8e66cb5d854b755eb6",
+    "jarFileModificationDate": "2020-03-24T14:47:28.286Z",
+    "location": "D:\\java\\lib\\ext\\access-bridge.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0e8f1fdf297d2504356a4a8f8c8d04c63d88c716",
+    "jarFileModificationDate": "2020-03-24T14:47:28.437Z",
+    "location": "D:\\java\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "896d975d9062946b13eb9001e49dd9dbc3dbd098",
+    "jarFileModificationDate": "2020-03-24T14:47:28.385Z",
+    "location": "D:\\java\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2ec072656698bb588f88fb80be3ca104bcc79d99",
+    "jarFileModificationDate": "2020-03-24T14:47:28.518Z",
+    "location": "D:\\java\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5e91348f1a5f34b5dec7d82923abf45e5eda6ccc",
+    "jarFileModificationDate": "2020-03-24T14:47:28.383Z",
+    "location": "D:\\java\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bf1c817820341a246f7130fe046e8310b03d04f6",
+    "jarFileModificationDate": "2020-03-24T14:47:28.384Z",
+    "location": "D:\\java\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c423fb190b0b7dbc03d6210c4310aa84e4aa1399",
+    "jarFileModificationDate": "2020-03-24T14:47:28.389Z",
+    "location": "D:\\java\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "721b0d02aba8d55f9bc8e7579a396263fd8a2799",
+    "jarFileModificationDate": "2020-03-24T14:47:32.362Z",
+    "location": "D:\\java\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9f83fa79d284933a85f10126a3f7a5e28e193df8",
+    "jarFileModificationDate": "2020-03-24T14:47:32.426Z",
+    "location": "D:\\java\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "10f022244fded36cb25eb57969d6b0fe3532221a",
+    "jarFileModificationDate": "2020-03-24T14:47:31.989Z",
+    "location": "D:\\java\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f2f4edbae6304b8cb5ad0b6da2a15b705be3d353",
+    "jarFileModificationDate": "2020-03-24T14:47:32.550Z",
+    "location": "D:\\java\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6452df62bdd2aa95350f178b87d663e247d53676",
+    "jarFileModificationDate": "2020-03-24T14:47:28.386Z",
+    "location": "D:\\java\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a825a095ee66be2b386eba17a2becf8a686c3a5c",
+    "jarFileModificationDate": "2020-03-24T14:47:28.390Z",
+    "location": "D:\\java\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "88c3fac12515274b8763469613c1b0909d633add",
+    "jarFileModificationDate": "2020-03-24T14:47:28.441Z",
+    "location": "D:\\java\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "211f1238506260344b2a474aa2fd23fa87dd5de9",
+    "jarFileModificationDate": "2020-03-24T14:47:28.375Z",
+    "location": "D:\\java\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4b7f6297e3807ddd82a7e6157bd70879e144742b",
+    "jarFileModificationDate": "2020-03-24T14:47:28.299Z",
+    "location": "D:\\java\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ae25725a6c15eed0560787e9c661349050845440",
+    "jarFileModificationDate": "2020-03-24T14:47:28.300Z",
+    "location": "D:\\java\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4f72c15e1e72d8c837af1c952fefcc067c207ea6",
+    "jarFileModificationDate": "2020-03-24T14:47:28.298Z",
+    "location": "D:\\java\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  }
+]
